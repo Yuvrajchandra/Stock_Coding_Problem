@@ -22,6 +22,7 @@ The following result is obtained :
 ![salesforce](https://user-images.githubusercontent.com/53931942/84977711-ab6c8900-b148-11ea-8f46-e3f390e74fe8.jpg)
 
 ### 4. WORK
+Note: The Purchase date of WORK's ticker is 06/06/2020 20:10:23 which is after the plotted data so it can be seen to the right of graph.
 ![slack](https://user-images.githubusercontent.com/53931942/84977753-c50dd080-b148-11ea-88ae-f1678640b595.jpg)
 
 ### 5. GOOGL
